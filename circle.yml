@@ -10,4 +10,4 @@ deployment:
   hockey:
     branch: master
     commands:
-      - source scripts/deployHockeyApp.sh && uploadToHockeyApp
+      - source Scripts/deployHockeyApp.sh && uploadToHockeyApp
